@@ -67,7 +67,7 @@ O dashboard permite:
 
 # Insights encontrados
 
-* Pet Shop fica localizado em Itaquera, o que justifica o dado histórico de faturamento maior na região. Em 2022 o bairro de Guaianases teve um grande volume de faturamento, sendo um local com potencial para uma filial.
+* Pet Shop fica localizado em Itaquera, justificando o dado histórico de faturamento na região. Em 2022 o bairro de Guaianases teve um grande volume de faturamento, potencial local para uma filial.
 * No mês de dezembro o faturamento em 2022 caiu bruscamente.
 * Maior parte do público do petshop é do gênero feminino.
 * Maior volume de venda foram brinquedos para pet.
