@@ -72,9 +72,3 @@ O dashboard permite:
 * Maior parte do público do petshop é do gênero feminino.
 * Maior volume de venda foram brinquedos para pet.
 * Maior faturamento foi com produtos para cachorro.
-
----
-# Finalização
-
-O projeto demonstra como dados operacionais podem se tornar informações estratégicas.
-Com o dashboard, gestores conseguem tomar decisões orientadas por dados, reduzindo riscos e aumentando a eficiência do negócio.
